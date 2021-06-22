@@ -15,20 +15,20 @@ change spring.datasource.username and spring.datasource.password as per your Pos
 
 4. Build and run the app using maven
 
-The app will start running at '''http://localhost:9090'''.
+The app will start running at ''http://localhost:9090''.
 
 Explore Rest APIs :
 
 The app defines following APIs.
 
-GET /home
+GET ```/home```
 
-GET /loads
+GET ``/loads``
 
-GET /loads/{id}
+GET ``/loads/{id}``
 
-PUT /loads/{id}
+PUT ``/loads/{id}``
 
-DELETE /loads/{id}
+DELETE ``/loads/{id}``
 
 You can test them using postman or any other rest client.
