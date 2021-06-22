@@ -15,7 +15,7 @@ change spring.datasource.username and spring.datasource.password as per your Pos
 
 4. Build and run the app using maven
 
-The app will start running at http://localhost:9090.
+The app will start running at '''http://localhost:9090'''.
 
 Explore Rest APIs :
 
